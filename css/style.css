@@ -1364,6 +1364,7 @@ dl dd {
 .bg-pb{
 	background-position:bottom;
 	background-size: cover;
+    height: 320px;
 }
 /*---------------------------------------------------------------
 9. IMAGES OVERLAY EFFECTS (overly animation on images)
