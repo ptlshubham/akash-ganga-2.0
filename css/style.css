@@ -1359,12 +1359,13 @@ dl dd {
 .bg-pt{
 	background-position:top;
 	background-size: cover;
+    height: 320px;
 }
 .dlab-bnr-inr.bg-pb,
 .bg-pb{
 	background-position:bottom;
 	background-size: cover;
-    height: 320px;
+    
 }
 /*---------------------------------------------------------------
 9. IMAGES OVERLAY EFFECTS (overly animation on images)
