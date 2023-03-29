@@ -4275,7 +4275,7 @@ blockquote:before {
 }
 .dlab-bnr-inr,
 .dlab-bnr-inr  .dlab-bnr-inr-entry{
-	 height: 220px;
+    height: 319px;
 }
 .dlab-bnr-inr {
     height: 220px;
@@ -6740,6 +6740,8 @@ a,
 .radius-sm {
     border-radius: 4px;
     -webkit-border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 .radius-xl {
     border-radius: 100px;
