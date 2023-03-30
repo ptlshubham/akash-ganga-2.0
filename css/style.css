@@ -1268,7 +1268,7 @@ dl dd {
     background-color: #1C1C1C;
 }
 .bg-gray {
-    background-color: #F7F9FB;
+    background-color: #fff;
 }
 .bg-gray-dark {
     background-color: #d3d3d3;
@@ -6580,8 +6580,8 @@ a,
     color: #ffffff;
 }
 .btn-danger {
-    background-color: #d9534f;
-    border-color: #d9534f;
+    background-color: #dc3545;
+    border-color: #dc3545;
     color: #ffffff;
 }
 .btn-secondary {
@@ -6593,8 +6593,9 @@ a,
 .btn-outline-danger {
     background-color: rgba(0, 0, 0, 0);
     background-image: none;
-    border-color: #d9534f;
-    color: #d9534f;
+    border-color: #ff5e14;
+    border-color: #ff5e14;
+    color: #ff5e14;
 }
 .btn-outline-primary {
     background-color: rgba(0, 0, 0, 0);
