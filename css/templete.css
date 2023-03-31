@@ -1687,7 +1687,7 @@ footer .footer-bottom .fa-heart{
 }
 .site-footer.style1 .footer-bottom-in .footer-bottom-logo a{
 	display: inline-block;
-    background: var(--color-primary);
+    background: #fff;
     padding: 10px 20px;
 }
 .site-footer.style1 .footer-bottom-in .dlab-social-icon li:first-child a{
