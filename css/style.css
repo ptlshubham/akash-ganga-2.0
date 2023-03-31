@@ -325,6 +325,92 @@ strong {
 .v-align-b {
     vertical-align: bottom;
 }
+/* modal popup sarts */
+.modal-content {
+    background-color: #0c2957 !important;
+  }
+  .modal-header {
+    color: #FFF;
+  }
+  .modal-body {
+      padding:2rem !important;		
+      }
+  .modal-body .form-group input[type="text"], .modal-body .form-group input[type="email"], .modal-body .form-group textarea {
+    border-color: #e0e5e8;
+    background-color: #ffffff;
+    height: 40px;
+    position: relative;
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    color: #738299;
+    line-height: 30px;
+    font-weight: normal;
+    border-radius: 6px;
+    padding: 11px 20px;
+    border-width: 1px;
+    border-style: solid;
+  }
+  .modal-body .bootstrap-select > .dropdown-toggle {
+    height: 40px !important;
+    background-color: #FFF !important;
+    color: #738299 !important;
+      
+  }
+  .modal-body .bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+    position: absolute;
+    top:4px;
+      font-weight: normal;
+  }
+  .modal-body .bootstrap-select .dropdown-toggle .filter-option::after {
+    right: 15px;
+    top: 5px;
+  }
+  .modal-body .form-group textarea {
+      height:100px !important;		
+      }
+  .modal-body .note.mb-30, .modal-body .theme-btn.btn-style-one.mb-30 {
+      margin: 0px !important;			
+  }
+  .modal-content button.btn.dropdown-toggle:focus.btn-light {
+      outline: none !important;
+      box-shadow: none;
+  }
+  .modal-body .note.mb-30 p {
+    margin: 0px !important;
+    padding: 0px !important;
+    color: #fff;
+    padding-top: 10px !important;
+  }
+  .modal-header .close {
+      font-size: 2rem !important;
+      color: #FFF !important;
+      font-weight: unset !important;
+      opacity: unset !important;
+      padding-right: 1rem !important;
+  }
+  .modal-header h5 {
+      padding-left: 1rem !important;		
+  }
+  .modal-content .modal-body .col-md-12.form-group:last-child {
+      margin-bottom: 0px;
+  }
+  .modal-content .modal-body .col-md-12.form-group:last-child p {
+      margin-bottom: 0px;
+  }
+  .modal-content .modal-body .form-group .inner.show a span {
+      margin-bottom: 0px;
+  /*     padding: 15px 0px; */
+  }
+  .modal-content .modal-body .form-group .inner.show .dropdown-item:focus, .dropdown-item:hover {
+      background-color: #aeafb1;
+  }
+  .modal-content .modal-body .bootstrap-select .dropdown-menu{
+      padding: 0px;
+  }
+  /* modal popup ends */
+
+ 
 /*text no line brack*/
 
 .text-nowrap {
@@ -9904,6 +9990,29 @@ ul[class*="list-"]{
         margin-right: 15px;
     }
 }
+#exampleModalCenter .wpcf7-response-output {
+	color: #FFF !important;
+}
+.elementor-heading-title {
+	font-family:'Ridley' !important;
+}
+.page-id-3787 h3.sec2h3 {
+    margin-bottom: 10px;
+    font-family: 'Ridley' !important;
+}
+.page-id-3798 .elementor-3798 .elementor-element.elementor-element-36acbed > .elementor-widget-container {
+    margin: 0px 18px 0px 18px !important;
+}
+
+.page-id-5652 .sec-title{
+	margin-bottom: 30px !important;
+}
+.page-id-5658 .elementor-5658 .elementor-element.elementor-element-ec94370 > .elementor-widget-container {
+    margin: 50px 0px 0px 0px;
+}
+.page-id-5689 .elementor-top-section {
+    margin-top: 30px;
+}
 /*== >Social icons ===*/
 /* social icon default */
 
@@ -13818,6 +13927,7 @@ ol.commentlist li .star-rating {
 		font-size: 45px;
 		line-height: 55px;
 	}
+   
 	.counter-style-5 {
 		padding: 30px 15px;
 	}
