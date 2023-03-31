@@ -6665,8 +6665,8 @@ a,
     color: #ffffff;
 }
 .btn-danger {
-    background-color: #dc3545;
-    border-color: #dc3545;
+    background-color: #ff5e14;
+    border-color: #ff5e14;
     color: #ffffff;
 }
 .btn-secondary {
@@ -9963,7 +9963,7 @@ ul[class*="list-"]{
     -moz-border-radius: 0 0 3px 3px;
 }
 .modal-header {
-    background: #EFBB20;
+    background: red;
     padding: 15px 25px;
 }
 .modal-header .modal-title {
