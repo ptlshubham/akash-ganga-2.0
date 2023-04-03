@@ -6665,8 +6665,8 @@ a,
     color: #ffffff;
 }
 .btn-danger {
-    background-color: #ff5e14;
-    border-color: #ff5e14;
+    background-color: #1e526e;
+    border-color: #1e526e;
     color: #ffffff;
 }
 .btn-secondary {
@@ -6678,9 +6678,9 @@ a,
 .btn-outline-danger {
     background-color: rgba(0, 0, 0, 0);
     background-image: none;
-    border-color: #ff5e14;
-    border-color: #ff5e14;
-    color: #ff5e14;
+    border-color: #1e526e;
+    border-color: #1e526e;
+    color: #1e526e;
 }
 .btn-outline-primary {
     background-color: rgba(0, 0, 0, 0);
