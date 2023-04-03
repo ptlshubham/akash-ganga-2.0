@@ -13774,15 +13774,15 @@ ol.commentlist li .star-rating {
 	font-size: 22px;
     line-height: 50px;
 }
-.theme-btn.bt-support-now{
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1ebbf0+8,39dfaa+100 */
+/* .theme-btn.bt-support-now{
+	Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1ebbf0+8,39dfaa+100
 	background: #1ebbf0; /* Old browsers */
 	background: -moz-linear-gradient(45deg, #1ebbf0 8%, #39dfaa 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(45deg, #1ebbf0 8%,#39dfaa 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(45deg, #1ebbf0 8%,#39dfaa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1ebbf0', endColorstr='#39dfaa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 	bottom: 70px;
-}
+} */
 .theme-btn.bt-buy-now{
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1fdf61+0,88BA46+100 */
 	background: #1fdf61; /* Old browsers */
@@ -13812,7 +13812,7 @@ ol.commentlist li .star-rating {
 	letter-spacing: 1px;
 	padding-left:10px;
 }
-.at-expanding-share-button[data-position="bottom-left"]{
+.-share-button[data-position="bottom-left"]{
 	bottom: 130px !important;
 }
 /* Support and Buy Button END */
