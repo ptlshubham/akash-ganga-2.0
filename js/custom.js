@@ -1068,7 +1068,7 @@ var Industry = function(){
 	}
 	
 	var handleSupport = function(){
-		
+	//empty	
 	}
 	
 	/* Website Launch Date */ 
